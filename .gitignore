@@ -18,7 +18,6 @@
 *.log
 *.map
 bochsout.txt
-docs/
 # Editor/IDE
 .vscode/
 .idea/
@@ -28,6 +27,7 @@ docs/
 # Build directories
 build/
 dist/
+docs/
 
 # OS Specific
 Thumbs.db
