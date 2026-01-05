@@ -1,0 +1,34 @@
+# Object files
+*.o
+*.obj
+
+# Binaries
+*.bin
+*.elf
+*.exe
+*.com
+
+# Disk Images
+*.img
+*.iso
+*.flp
+*.vhd
+
+# Logs and Debug
+*.log
+*.map
+bochsout.txt
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build directories
+build/
+dist/
+
+# OS Specific
+Thumbs.db
+.DS_Store
